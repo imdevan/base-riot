@@ -1,0 +1,40 @@
+{
+  "name": "riot-setup",
+  "version": "0.1.0",
+  "dependencies": {},
+  "scripts": {
+    "start": "gulp"
+  },
+  "devDependencies": {
+    "breakpoint": "^0.1.6",
+    "breakpoint-sass": "^2.6.1",
+    "browser-sync": "^2.0.0-rc4",
+    "browserify": "^12.0.1",
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^2.1.0",
+    "gulp-cached": "^1.0.2",
+    "gulp-concat": "^2.4.3",
+    "gulp-gh-pages": "^0.4.0",
+    "gulp-imagemin": "^2.1.0",
+    "gulp-jshint": "^1.9.0",
+    "gulp-minify-css": "^0.3.12",
+    "gulp-minify-html": "^0.1.8",
+    "gulp-notify": "^2.2.0",
+    "gulp-plumber": "^0.6.6",
+    "gulp-rename": "^1.2.0",
+    "gulp-riot": "^0.4.2",
+    "gulp-sass": "^2.0.4",
+    "gulp-scss-lint": "*",
+    "gulp-size": "^1.2.0",
+    "gulp-uglify": "^1.0.2",
+    "imagemin-pngquant": "^4.0.0",
+    "modular-scale": "^4.4.1",
+    "modularscale-sass": "^2.1.1",
+    "riot": "^2.3.11",
+    "riotify": "^0.1.2",
+    "sass-toolkit": "^2.9.0",
+    "singularitygs": "^1.6.2",
+    "toolkit": "^1.5.4",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}

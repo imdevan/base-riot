@@ -1,0 +1,10 @@
+$max-width: 900px;
+
+%container {
+    max-width: $max-width;
+    margin: auto;
+}
+
+body {
+    color: $gray-dark;
+}
